@@ -1,0 +1,11 @@
+title: Bryon's Blog
+description: A blog by Bryon Miller
+url: "https://bryonmiller.github.io"
+
+# Official default Jekyll theme built into GitHub Pages
+theme: minima
+
+# Plugins supported natively by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
