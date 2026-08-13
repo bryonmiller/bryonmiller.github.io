@@ -3,7 +3,7 @@ description: A blog by Bryon Miller
 url: "https://bryonmiller.github.io"
 
 # Official default Jekyll theme built into GitHub Pages
-theme: minima
+theme: hacker
 
 # Plugins supported natively by GitHub Pages
 plugins:
